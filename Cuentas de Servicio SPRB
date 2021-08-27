@@ -1,47 +1,47 @@
-userocs									:ocssecret			: administrador de ocs
-bonos									: 					: Bonos Casino 
-userbackup								:Zprb+2000			: Cuenta para realizar backups de la intranet en vistula
-userldap								:Sprb+1005+ 		: cuenta para colsultas ldap de aplicaiones al dominio
-google									:Abcd+2014 			: Cuenta para sincronizacion de google app
-administrator							:Abcd+2014			: Cuenta de correo de google para autorizar google sync
-nagios@puertodebarranquilla.com			:ZpRb+2015+			: Cuenta para envio de correos de NAGIOS
-veeambackup@puertodebarranquilla.com	:ZpRb+2015+			: Cuenta para envio de correos de VeeamBackup
-impresion								:Sprb+2014+			: impresion para usuarios que no son del dominio, configurado el Aseguradora
-userkaspersky							:Kaspersky_1005		: Usuario de consola antivirus kaspersky
-veeamendpoint							:Zprb2010+			: Cuenta para realizar copias de seguridad de PC en Veeam
-veeambackup								:Abcd+2015+			: Cuenta de administrador de veeambackup server
-veeammonitor							:2pj06MUcx1IiBEaK	: Cuenta para veeamone y conexion a los servidores Windows
-sprb\netwrix							:Sprb+2015+2010		: Administrador de dominio para auditoria Netwrix
-vcenter									:Sprb+1005+
-useronbase								:Sprb+1005+			: Usuario aadministrador local de Rodano solicitado por Enoc
-onbase1									:Sprb+2002+			: administrador de onbase para servicios de rodano
-soporte@puertodebarranquilla.com		:Sprb+abcd			: Cuenta para envio de correo de aplicaciones de sistemas
-consultoria								:consultoria		: 
-erubio									:Kelly1980/			: cgi cliente para realizar planes de accion 
-RIN Administrador Local					:Sprb2000+			: Administrator
-root									:Sprb+1005+			: usuario root para GPFS CCTV
-administrator							:Sprb+2015--Passw0rd	: Template windows server 2012
-administrator							:Zprb+Passw0rd+		: Administrador local Windows Server
-root									:Passw0rd			: Template SUSE 11
-HMAIL									:sprb21COL			: Password para aplicacion HMAIL
-admin									:zPrb+2015			: Password Aimetis
-MySql root								:Takujk1931			: Password para root de mysql servidor Intranet Patia
-SQL Milestone							:sa					: Milestone+2020
-SQL Netwrix								:sa					: NetwrixSprb+2015
-SQL INSTANCIA PRUEBAS					:sa					: Passw0rd+
-SQL VOIRE CCURE							:sa					:Ccure+2015
-SQL VOIRE KACTUS						:sa					:SKactus+2015
-SQL VOIRE FACTURE						:sa					:SFacture+2015
-SQL YERRES EDS							:sa					:Manager1+
-SQK CCURE                               :carnetizacion      :Pu3rt02019p4n!Zprb+
-MYSQL root								:root				:Passw0rd!!
-administradoreds						:zPrB+1089			:Administrador local para servidro Yerres EDS
-marmre\administrator					:Ccure+2015			:Administrador local marme
-SIC Checkpoint							:ZSprb+2015+		:comunicacion management y checkpoint
-admin									:p4s5w0rd			:usuario administrador checkpoint
-SAULX\cid								:zpRB+2015+			:usuario local para control granel CID
-acre\sparcs								:zPrb+2010_10		:Administrador local para Sparcs
-laco\sparcs								:zPrb+2010_10		:Administrador local para Sparcs
-olmos\sparcs							:zPrb+2010_10		:Administrador local para Sparcs
-naya\sapcloud                           :zPRB+2020++        :Administrador local para sap analitcis
-SPRB\qlikservices                       :Zprb+2015+         :Administrador de Qlik
+userocs									                      :ocssecret			    : administrador de ocs
+bonos									                        : 					        : Bonos Casino 
+userbackup								                    :Zprb+2000			    : Cuenta para realizar backups de la intranet en vistula
+userldap								                      :Sprb+1005+ 		    : cuenta para colsultas ldap de aplicaiones al dominio
+google									                      :Abcd+2014 			    : Cuenta para sincronizacion de google app
+administrator							                    :Abcd+2014			    : Cuenta de correo de google para autorizar google sync
+nagios@puertodebarranquilla.com		          	:ZpRb+2015+			    : Cuenta para envio de correos de NAGIOS
+veeambackup@puertodebarranquilla.com	        :ZpRb+2015+			    : Cuenta para envio de correos de VeeamBackup
+impresion								                      :Sprb+2014+			    : impresion para usuarios que no son del dominio, configurado el Aseguradora
+userkaspersky							                    :Kaspersky_1005		  : Usuario de consola antivirus kaspersky
+veeamendpoint							                    :Zprb2010+			    : Cuenta para realizar copias de seguridad de PC en Veeam
+veeambackup								                    :Abcd+2015+			    : Cuenta de administrador de veeambackup server
+veeammonitor							                    :2pj06MUcx1IiBEaK 	: Cuenta para veeamone y conexion a los servidores Windows
+sprb\netwrix							                    :Sprb+2015+2010		  : Administrador de dominio para auditoria Netwrix
+vcenter									                      :Sprb+1005+
+useronbase							                    	:Sprb+1005+			    : Usuario aadministrador local de Rodano solicitado por Enoc
+onbase1									                      :Sprb+2002+			    : administrador de onbase para servicios de rodano
+soporte@puertodebarranquilla.com		          :Sprb+abcd			    : Cuenta para envio de correo de aplicaciones de sistemas
+consultoria								                    :consultoria		    : 
+erubio									                      :Kelly1980/			    : cgi cliente para realizar planes de accion 
+RIN Administrador Local					              :Sprb2000+			    : Administrator
+root									                        :Sprb+1005+			    : usuario root para GPFS CCTV
+administrator							                    :Sprb+2015--Passw0rd	: Template windows server 2012
+administrator							                    :Zprb+Passw0rd+	  	: Administrador local Windows Server
+root									                        :Passw0rd			      : Template SUSE 11
+HMAIL									                        :sprb21COL			    : Password para aplicacion HMAIL
+admin									                        :zPrb+2015			    : Password Aimetis
+MySql root								                    :Takujk1931			    : Password para root de mysql servidor Intranet Patia
+SQL Milestone							                    :sa					        : Milestone+2020
+SQL Netwrix								                    :sa					        : NetwrixSprb+2015
+SQL INSTANCIA PRUEBAS					                :sa				        	: Passw0rd+
+SQL VOIRE CCURE							                  :sa					        :Ccure+2015
+SQL VOIRE KACTUS						                  :sa					        :SKactus+2015
+SQL VOIRE FACTURE						                  :sa					        :SFacture+2015
+SQL YERRES EDS							                  :sa					         :Manager1+
+SQK CCURE                                     :carnetizacion      :Pu3rt02019p4n!Zprb+
+MYSQL root								                    :root				        :Passw0rd!!
+administradoreds						                  :zPrB+1089			    :Administrador local para servidro Yerres EDS
+marmre\administrator					                :Ccure+2015			    :Administrador local marme
+SIC Checkpoint							                  :ZSprb+2015+		    :comunicacion management y checkpoint
+admin									                        :p4s5w0rd			      :usuario administrador checkpoint
+SAULX\cid								                      :zpRB+2015+		    	:usuario local para control granel CID
+acre\sparcs								                    :zPrb+2010_10		    :Administrador local para Sparcs
+laco\sparcs								                    :zPrb+2010_10		    :Administrador local para Sparcs
+olmos\sparcs							                    :zPrb+2010_10		    :Administrador local para Sparcs
+naya\sapcloud                                 :zPRB+2020++        :Administrador local para sap analitcis
+SPRB\qlikservices                             :Zprb+2015+         :Administrador de Qlik
